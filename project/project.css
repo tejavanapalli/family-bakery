@@ -1,0 +1,446 @@
+body{
+    margin:0px;
+    padding:0px;
+    font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+    }
+.baking-image{
+            border:2px solid transparent;
+            height:900px;
+            width:100%;
+            background-image:url('https://img.freepik.com/free-photo/paper-bag-with-bread-basket-pastry_23-2148359148.jpg?size=626&ext=jpg&ga=GA1.1.2003052991.1692456290&semt=ais');
+            background-repeat: no-repeat;
+            background-size:100%;
+            object-fit: justify;
+        }
+        .img-content{
+            border:2px solid transparent;
+            height:310px;
+            width:480px;
+            margin:100px 40%;
+            padding:none;
+            font-size: 55px;
+            line-height:80px;
+
+            
+
+        }
+        .p{
+           
+            font-weight: 100;
+            letter-spacing: 8px;
+            font-size: 35px;
+            padding:0px;
+            margin:0px;
+        }
+        .p1{
+            
+            font-weight: 100;
+            letter-spacing: 3px;
+            font-size: 20px;
+            padding:0px;
+            margin:0px;
+        }
+        .a{
+            
+            font-weight: 100;
+            color:black;
+        }
+        .a1{
+           
+            font-weight: 100;
+            color:white;
+        }
+        .h1{
+            font-weight:bolder;
+            padding:0px;
+            margin:0px;
+            
+        }
+
+        .baking-content{
+            border:2px solid transparent;
+            height:190px;
+            width:900px;
+            margin-left:610px;
+            display:flex;
+            gap:0px 40px;
+        }
+        .baking-content>div{
+            border:2px solid transparent;
+            height:190px;
+            width:190px;
+            
+        }
+        
+        .findus>p{
+            
+            font-weight:300;
+            font-size: 20px;
+        }
+        .findus>h2{
+            
+            letter-spacing: 2px;
+            margin-bottom:20px; 
+        }
+        .hours>h2{
+            
+            letter-spacing: 2px;
+            margin-bottom:20px;
+        }
+        .hours>b{
+           
+            font-size: 21px;
+            line-height: 10px;
+        }
+        .hours>p{
+            font-size:20px;
+            line-height:10px;
+        }
+        .callus>h2{
+            
+            letter-spacing: 2px;
+            margin-bottom:20px;
+        }
+        .callus>a{
+            color:black;
+            font-size: 20px;
+            font-weight: 600;
+        }
+
+       
+
+
+        .parent-baking{
+            border:2px solid transparent;
+            margin-top: 30px;
+            height:750px;
+            width:100%;
+            
+        }
+        .head{
+            text-align: center;
+            font-size: 35px;
+            font-family:"Calibri", sans-serif;
+            
+        }
+        .parent-cont{
+            border:2px solid transparent;
+            padding:0px 150px;
+            display:grid;
+            grid-template-rows: 210px 210px;
+            grid-template-columns:390px 390px 390px;
+            grid-column-gap:30px;
+            grid-row-gap:0px;
+        }
+        .parent-cont>div{
+            border:2px solid transparent;
+            display: flex;
+
+        }
+        .logo-img{
+            border:2px solid transparent;
+            height:70px;
+            width:70px;
+            margin-right:40px;
+        }
+        .logo-content{
+            border:2px solid transparent;
+            height: 200px;
+            width:360px;
+        }
+        .logo-content>h2{
+            margin: 0px;
+        }
+        .logo-content>p{
+        font-size: 18px;
+        line-height:25px;
+        }
+
+
+
+        .bread-black-bg{
+            border: 2px solid black;
+            height: 720px;
+            width:100%;
+            background-image:url('https://img.freepik.com/free-photo/tasty-bread-table_23-2148544857.jpg?size=626&ext=jpg&ga=GA1.1.2003052991.1692456290&semt=ais');
+            background-repeat: no-repeat;
+            background-size:cover;
+            object-fit: justify;
+        }
+
+        .bread-black-bg>div{
+            border:2px solid transparent;
+            height:550px;
+            width:30%;
+            margin-left:60%;
+            margin-top: 100px;
+            color:white;
+            padding-left: 40px;
+        }
+        .black-content>h1{
+            font-size: 70px;
+            line-height: 60px;
+        }
+        .black-content>p{
+            font-size:18px;
+            font-weight: 100;
+        }
+        
+        .black-content>button{
+            border:2px solid white;
+            background-color: black;
+            height:60px;
+            width:220px;
+            border-radius:30px;
+            color:white;
+            font-size: 15px;
+            font-weight: bold;
+            letter-spacing: 2px;
+            margin:20px 0px;
+        }
+        button:hover{
+            background-color: white;
+            color:black;
+        }
+
+        .bread-space{
+            border:5px solid transparent;
+            height:2100px;
+            width:100%;
+            background-color: #F2F1EF;
+        }
+
+        .bread-content{
+            border:2px solid transparent;
+            height:920px;
+            width: 75%;
+            margin: auto;
+            display: grid;
+            grid-template-rows: 430px 430px;
+            grid-template-columns:260px 260px 260px 260px;
+            grid-gap:30px;
+
+        }
+        .bread-content>div{
+            border:2px solid transparent;
+            background-color: white;
+            border-radius: 20px;
+        }
+        .our-img{
+            border:2px solid transparent;
+            border-radius: 20px;
+            height:190px;
+            width:220px;
+            margin:auto;
+            margin-top:15px;
+        }
+        .our-img>img{
+            border-radius: 20px;
+            object-fit:cover;
+        }
+        .our-content{
+            border:2px solid transparent;
+            height:200px;
+            text-align: center;
+            padding:0px 10px;
+            
+        }
+        .our-content>h2{
+            letter-spacing: 1px;
+            font-size: 22px;
+        }
+        .our-content>p{
+            font-style: italic;
+            font-size: 18px;
+            line-height: 25px;
+        }
+        .our-content>a{
+            color:black;
+            font-size:20px;
+            font-weight: 200;
+        }
+        .p2{
+            text-align: center;
+            font-size: 25px;
+            font-weight:200;
+        }
+
+        .qual-par1{
+            border:2px solid transparent;
+            height:900px;
+            width:70%;
+            margin:auto;
+            margin-top: 90px;
+            margin-left:230px;
+            display:flex;
+            padding-left:100px
+            
+        }
+        .quality-parent{
+            border:2px solid transparent;
+            height:800px;
+            width:43%;
+            margin-right: 30px;
+        }
+        .quality-head{
+            border:2px solid transparent;
+            height:320px;
+            width:400px;           
+        }
+
+        .quality-head>h1{
+            font-size: 70px;
+            line-height: 60px;
+        }
+
+        .quality-img1{
+            border:2px solid transparent;
+            height:500px;
+            width:400px;
+            margin-top:40px;
+        }
+
+        .quality-img1>img{
+            height:600px;
+            width:400px;
+            object-fit:cover;
+        }
+
+        .quality-img2{
+            border:2px solid transparent;
+            height:650px;
+            width:430px;   
+            margin-top: 40px;
+        }
+
+        .quality-img2>img{
+            height:650px;
+            width:430px;
+            object-fit:cover;
+        }
+
+        .para{
+            border:2px solid transparent;
+            height:320px;
+            width:870px;
+            margin:auto;
+            margin-top:170px;
+        }
+
+        .para>h1{
+            font-size:38px;
+        }
+        .para>p{
+            font-size:20px;
+            font-weight:300;
+            line-height:30px;
+        }
+        .para>a{
+            color:black;
+        }
+        .a2{
+            color:black
+        }
+        .para>button{
+            border:2px solid black;
+            background-color: white;
+            height:60px;
+            width:220px;
+            border-radius:30px;
+            color:black;
+            font-size: 15px;
+            font-weight: bold;
+            letter-spacing: 2px;
+            margin:20px 0px;
+        }
+        .para button:hover{
+            background-color:black;
+            color:white;
+        }
+
+        .sweet-menu{
+            border:2px solid black;
+            height:800px;
+            width:100%;
+            margin-top:150px;
+            background-image: url('https://img.freepik.com/free-photo/decorating-delicious-homemade-eclairs-with-chocolate-peanuts_155003-1868.jpg?size=626&ext=jpg&ga=GA1.1.2003052991.1692456290&semt=ais');
+            background-repeat:no-repeat;
+            background-size:cover;
+        }
+        .sweet-head{
+            text-align: center;
+            font-size: 35px;
+            color:white;
+            margin-top:100px;
+        }
+        .menu-box{
+            border:2px solid transparent;
+            height:380px;
+            width:75%;
+            margin:auto;
+            margin-top:80px;
+            display:flex;
+            gap: 20px;
+
+        }
+        .menu-box>div{
+            border:2px solid transparent;
+            height:300px;
+            width:370px;
+            background-color:white;
+            border-radius: 20px;
+            padding-left:20px;
+        }
+        ul{
+            font-size:24px;
+            font-weight: 100;
+            line-height:40px;
+            padding: 0%;
+        }
+        .sweet-menu p,a{
+            color:white;
+            text-align: center;
+            font-size: 18px;
+        }
+        
+        .info{
+            border:2px solid transparent;
+            height:350px;
+            width:60%;
+            margin:auto;
+            margin-top:70px;
+            text-align:center;
+        }
+        .info>h1{
+            font-size:60px;
+            margin-bottom: 0%;
+            
+        }
+        .info p,a{
+            color:white;
+            font-size: 20px;
+            font-weight: 100;
+        }
+        .info>button{
+            border:2px solid black;
+            background-color: white;
+            height:60px;
+            width:220px;
+            border-radius:30px;
+            color:black;
+            font-size: 15px;
+            font-weight: bold;
+            letter-spacing: 2px;
+            margin:20px 0px;
+        }
+        .info button:hover{
+            background-color:black;
+            color:white;
+        }
+
+        .image{
+            height:700px;
+            width:900px;
+            margin: auto;
+            margin-top:80px; 
+        }
